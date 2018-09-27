@@ -3,8 +3,8 @@ layout: post
 title: This is the title of the second post
 postHero: /images/shark.jpg
 author: Me, Myself, and I
-authorTwitter: http://twitter.com/mhartl
-gravatar: https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150
+authorTwitter: https://twitter.com/planetglobula
+gravatar: https://secure.gravatar.com/avatar/b5d6f3ac2c8e16d57a2ddcc6a108c437
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
 
